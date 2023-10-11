@@ -234,7 +234,6 @@ Here you'll create an artificial merge conflict to see what this looks like and 
 
 **Create a merge conflict**
 
-
 1.  Have someone in your team open the README file and add the group members' names in a list on one line, *e.g.*,
 
     group: Laura Baracaldo, Erika MchPillips
