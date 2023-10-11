@@ -1,3 +1,5 @@
 # About Me
 
 Hi my name is Yoobin and I'm a 4th year stats and ds major and I have a cat named Squeaks!
+
+Hi Yoobin! How old is your cat?
